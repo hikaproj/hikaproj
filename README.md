@@ -24,12 +24,12 @@
 
 ## 🧭 About Me / 自己紹介
 
-### 🇯🇵 日本語
+### 日本語
 こんにちは！**Hikaproj** です。  
 Webツールの開発をはじめ、様々な最新ガジェットのチェック、ハードウェアの分解やメンテナンス、そしてジャンクPCの延命・魔改造が大好きなガジェットオタク＆エンジニアです。  
 ハードウェアの仕組みを理解し、手元にあるデバイスやパーツを限界まで活用して面白いものを作り出すことにワクワクします。便利なWebツールを作ったり、掘り出し物のジャンクをいじり倒したりと、ハードとソフトの両面を楽しんでいます。
 
-### 🇺🇸 English
+### English
 Hello! I am **Hikaproj**.  
 I am a web developer and hardcore gadget enthusiast who loves experimenting with hardware, reviving junk PCs, and crafting convenient web tools.  
 I am passionate about exploring how electronics work under the hood, maximizing the potential of existing hardware, and turning old or affordable silicon into practical, fun machines.
@@ -38,12 +38,12 @@ I am passionate about exploring how electronics work under the hood, maximizing 
 
 ## 📱 Gadget Arsenal & Setup / ガジェット・機材布陣
 
-### 🇯🇵 日本語
+### 日本語
 愛用しているPC、スマートフォン、周辺機器、作業環境などの詳細な機材構成（布陣）は、以下の専用ページにて随時更新・公開しています！ぜひご覧ください。
 
 👉 **[Hikaprojの布陣（Lab）はこちら](https://hikaproj.com/new/lab/)**
 
-### 🇺🇸 English
+### English
 All details regarding my daily gear, gadgets, PC setups, and workstation configurations are documented and regularly updated on my official lab page:
 
 👉 **[Check out Hikaproj's Setup & Lab](https://hikaproj.com/new/lab/)**
@@ -54,13 +54,13 @@ All details regarding my daily gear, gadgets, PC setups, and workstation configu
 
 ハードオフの青箱やオークション、秋葉原で見つけた訳あり・不動のジャンクPCを救出し、実用機へと蘇らせるのがライフワークです。
 
-### 🇯🇵 再生へのこだわり
+### 再生へのこだわり
 - **徹底的な分解と清掃**: ファンのホコリ除去、劣化したCPUグリスの塗り直し、接点復活剤によるメンテナンス。
 - **ストレージ・メモリ換装**: 古い低速HDDからSSDへの換装、手持ちパーツを使ったメモリ増設による快適化。
 - **軽量OS導入**: 軽量Linuxディストリビューション等を導入し、低スペックでもキビキビ動くマシンへ再構築。
 - **魔改造と延命**: 「動かない」「古い」と言われたハードウェアに再び役割を与え、現役として稼働させます。
 
-### 🇺🇸 Modding Philosophy
+### Modding Philosophy
 - Breathing new life into discarded and vintage hardware.
 - Full teardown, deep cleaning, re-pasting dried thermal compounds, and contact cleaning.
 - Upgrading to fast SSDs and maximizing RAM capacity with spare parts.
@@ -119,13 +119,13 @@ All details regarding my daily gear, gadgets, PC setups, and workstation configu
 
 ## 🎯 Gadget Geek Habits / ガジェットオタクの生態
 
-### 🇯🇵 日本語
+### 日本語
 - ジャンクコーナーの青い箱（青箱）を見ると、吸い寄せられるように値札と基板の状態を凝視してしまう。
 - 部屋のどこかで常に「ファンが回る音」と「緑色や青色のLEDの点滅」が確認できる。
 - 「このスペックでこの値段なら実質タダでは？」と自分に言い聞かせてポチってしまう。
 - ガジェットのネジを外して内部基板やチップセットの型番を眺めている時間が一番落ち着く。
 
-### 🇺🇸 English
+### English
 - Magnetically drawn to clearance bins and junk hardware racks whenever visiting electronics stores.
 - Sleeping peacefully to the ambient hum of cooling fans and the steady glow of green/blue LEDs.
 - Telling myself "At this specs-to-price ratio, it's practically free!" before clicking the buy button.
@@ -135,7 +135,7 @@ All details regarding my daily gear, gadgets, PC setups, and workstation configu
 
 ## 📬 Connect & Contact / 連絡先・お問い合わせ
 
-### 🇯🇵 日本語
+### 日本語
 ガジェットの話題、ジャンクPCの再生、Webツールの開発相談、相互リンクなど、お気軽にどうぞ！  
 その他の問い合わせ先や各種連絡フォームについては、専用の問い合わせページをご確認ください。
 
@@ -147,7 +147,7 @@ All details regarding my daily gear, gadgets, PC setups, and workstation configu
 - **Email**: [contact@hikaproj.com](mailto:contact@hikaproj.com)
 - **Active Domains**: `hikaproj.com`, `hp5.top`
 
-### 🇺🇸 English
+### English
 Feel free to reach out for gadget discussions, junk PC modifications, web project collaborations, or link exchanges!  
 For additional communication channels and contact forms, please check out the dedicated contact page:
 
